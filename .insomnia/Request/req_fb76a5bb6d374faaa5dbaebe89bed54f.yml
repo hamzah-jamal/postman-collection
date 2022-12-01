@@ -1,0 +1,21 @@
+_id: req_fb76a5bb6d374faaa5dbaebe89bed54f
+type: Request
+parentId: wrk_a33254d9dab44e808305e8f1b3058242
+modified: 1669897663572
+created: 1669897046369
+url: http://www.omdbapi.com/?i=tt3896198&apikey=945586ac&s=dollar
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1669897046369
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
